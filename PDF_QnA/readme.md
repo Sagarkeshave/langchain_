@@ -12,7 +12,7 @@ https://www.loom.com/share/1100f322406144529c2d443f5e3b8a68?sid=dcd6cada-1088-48
 - We will build an LLM based question and answer system that can reduce the workload of their human staff.
 - Students should be able to use this system to ask questions directly and get answers within seconds
 
-## You will learn following,
+## Techs
   - Langchain + Google Palm: LLM based Q&A
   - Streamlit: UI
   - Google Palm: Text embeddings
