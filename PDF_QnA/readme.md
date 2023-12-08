@@ -2,6 +2,10 @@
 
 This is an end to end LLM project based on Google Palm and Langchain. We are building a Q&A system for large PDFs (Indian constituion).This system will provide a streamlit based user interface for students where they can ask questions and get answers. 
 
+## Demo
+</br>
+https://www.loom.com/share/1100f322406144529c2d443f5e3b8a68?sid=dcd6cada-1088-4869-b1e6-4a2cc73819de
+</br>
 
 ## Project Highlights
 
